@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 0;
+}
+body, html {
+    width:100%;
+    min-height: 100%;
+}
+
+body {	
+	/*background-image:url('../img/redocher.jpg');*/
+	background-repeat:no-repeat;
+	background-size: cover;
+	font-family: comic-sans,arial;
+	background-color: #210e10;
+}
+
+h1, h2 {
+	color: #b5351a;
+	text-shadow: white 0 -1px 4px, white 0 -2px 10px, white 0 -10px 20px, white 0 -18px 40px;
+}
+
+/*h2 {	
+	color: #b5351a;	
+    text-shadow: -4px 0 gold, 0 2px white, 1px 0 white, 0  -2px white;
+} */
+
+#container{ 
+	width: 1220px;
+	margin-left: auto;
+	margin-right: auto;
+}
+	
+#header {
+	background-image:url('../img/nokia phone wallet4.jpg');
+    background-repeat:no-repeat;
+	background-size:cover; 
+	text-align:center;
+	font-family:Cambria;
+	font-size: 50px;
+	padding:5px ;
+}
+
+#content {
+	color: rgb(250,250,250);
+	background-color: rgba(0,0,0,.7) ;
+	padding: 20px;
+	
+}
+
+#main{
+	text-align:center;
+}
+
+#text{
+	text-align:left;
+	font-size:25px;
+}
+
+#nav ul li a {
+	text-decoration:none;
+	float: left;
+	/*display: block; color: green;*/	
+	padding: 10px 20px;
+	
+}
+
+#nav {
+	clear:both;
+	height: 40px;
+	/*background: #a7e0ee;*/
+	/*background-image:url('../img/navbg1.jpg');*/
+	background-color: #454545;
+	
+}
+
+#nav ul li a:hover {
+	color: white;
+	text-shadow:  2px 2px 2px  black;
+    
+}
+
+#nav ul li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav .selected {
+	font-weight: bold;
+
+	color: black;
+    text-shadow:  2px 2px 2px  white;
+}
+
+/*#nav .selected1 {
+	font-weight: bold;
+	color:red;
+}
+
+#nav .selected2 {
+	font-weight: bold;
+	color:red;
+}
+
+#nav .selected3 {
+	font-weight: bold;
+	color:red;
+}
+
+#nav .selected4 {
+	font-weight: bold;
+	color:red;
+}
+
+#nav .selected5 {
+	font-weight: bold;
+	color:red;
+}*/
+	
+#links {
+        position:absolute;
+        top:3px;
+}
+
+#footer {
+	/*padding: 10px;
+	/*background-color: #b75c00;
+	background-image:url('../img/leather.jpg');
+    background-repeat:no-repeat;
+	background-size:cover;*/
+	text-align: right;
+	/*background-image:url('../img/navbg1.jpg');*/
+	background-color: #454545;
+	color: #444444;
+	text-shadow: black 0 -1px 6px, black 0 -2px 10px, black 0 -10px 20px, black 0 -18px 40px;
+}
