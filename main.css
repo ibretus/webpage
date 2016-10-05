@@ -70,6 +70,12 @@ h3 {
     image:float-left
 }
 
+@media screen and (max-width:1219px){
+	#container{
+		width:100%;
+	}
+}	
+
 #text{
 	text-align:left;
 	font-size:25px;
