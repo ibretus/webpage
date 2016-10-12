@@ -9,7 +9,7 @@ document.getElementById("nav").innerHTML =
 									'<li><a class="selected" href="purchase.html">Purchase</a></li>'+
 								'</ul>'+
 							'</nav>'+
-							'<link rel="stylesheet" type="text/css" href="../css/main.css" />';							
+							'<link rel="stylesheet" type="text/css" href="main.css" />';							
 								
 document.getElementById("head").innerHTML =
 								'<title>AROcustomleather</title>'+
