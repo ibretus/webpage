@@ -1,3 +1,5 @@
+*Do ot remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
 RewriteEngine On 
 RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteCond %{REQUEST_FILENAME} !-d 
