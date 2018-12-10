@@ -4,7 +4,7 @@ document.getElementById("nav").innerHTML =
 									'<li><a class="selected" href="index.html">Home</a></li>'+
 									'<li><a class="selected" href="about.html">About</a></li>'+
 									'<li><a class="selected" href="contact.html">Contact</a></li>'+
-									'<li><a class="selected" href="https://www.facebook.com/arocutomleather.com/?ref=aymt_homepage_panel"target="_blank">Facebook</a></li>'+
+									'<li><a class="selected" href="https://www.facebook.com/@australianredochrecustumleather/?ref=aymt_homepage_panel"target="_blank">Facebook</a></li>'+
 									'<li><a class="selected" href=" https://paypal.me/aroleather"target="blank">PayPal</a></li>'+
 									'<li><a class="selected" href="Gallery.html">Gallery</a></li>'+
 								'</ul>'+
